@@ -1,6 +1,5 @@
 const request = require('request');
 
-
 var geocodeAddress = (address , callback)=>{
   var extension = encodeURIComponent(address);
   request({

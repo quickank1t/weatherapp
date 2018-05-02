@@ -19,6 +19,6 @@ geocode.geocodeAddress(argv.a,(errorMessage,result)=>{
   if(errorMessage)
     console.log(errorMessage);
     else {
-      console.log(JSON.stringify(result,undefined,2));
+      console.log(JSON.stringify(result));
     }
 });
