@@ -1,0 +1,26 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Weather app in node js to learn async.",
+  "main": "async.js",
+  "dependencies": {
+    "request": "^2.85.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quickank1t/weatherapp.git"
+  },
+  "keywords": [
+    "weatherapp"
+  ],
+  "author": "ankit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quickank1t/weatherapp/issues"
+  },
+  "homepage": "https://github.com/quickank1t/weatherapp#readme"
+}
